@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week2api", "week2api", "{5E784C00-8025-ED48-CE24-6978B3F34CC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "weerapi", "week2api\weerapi\weerapi.csproj", "{3573647B-557B-923A-97A0-DF2761A9DE36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3573647B-557B-923A-97A0-DF2761A9DE36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3573647B-557B-923A-97A0-DF2761A9DE36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3573647B-557B-923A-97A0-DF2761A9DE36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3573647B-557B-923A-97A0-DF2761A9DE36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3573647B-557B-923A-97A0-DF2761A9DE36} = {5E784C00-8025-ED48-CE24-6978B3F34CC0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {386E76D5-3A52-4A57-9368-C1BF75E93F15}
+	EndGlobalSection
+EndGlobal

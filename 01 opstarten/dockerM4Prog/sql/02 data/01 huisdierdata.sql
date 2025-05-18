@@ -1,0 +1,1 @@
+INSERT INTO `huisdierendata` (`id`, `eigenaar`, `typedier`, `naam`) VALUES (NULL, '', '', ''), (NULL, 'julian', 'maltezer', 'tonny');
